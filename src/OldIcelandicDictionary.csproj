@@ -7,7 +7,7 @@
     <Authors>stscoundrel / Sampo Silvennoinen</Authors>
     <PackageVersion>0.1.0</PackageVersion>
     <Description>
-      TODO: Package description
+      Old Icelandic dictionary. From "A Concise Dictionary of Old Icelandic" by Geir Zoëga
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
