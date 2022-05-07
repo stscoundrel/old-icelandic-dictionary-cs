@@ -10,6 +10,8 @@
       Old Icelandic dictionary. From "A Concise Dictionary of Old Icelandic" by Geir Zoëga
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/stscoundrel/old-icelandic-dictionary-cs</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
